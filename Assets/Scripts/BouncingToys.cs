@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using static UnityEngine.InputManagerEntry;
 
 public class BouncingToys : MonoBehaviour {
     private GameObject[][] toys = new GameObject[2][];
