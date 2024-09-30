@@ -6,6 +6,8 @@ TagManager:
   tags:
   - CinemachineTarget
   - toy
+  - balls
+  - boxes
   layers:
   - Default
   - TransparentFX
