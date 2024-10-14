@@ -8,6 +8,7 @@ TagManager:
   - toy
   - balls
   - boxes
+  - Door
   layers:
   - Default
   - TransparentFX
